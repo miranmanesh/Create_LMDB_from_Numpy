@@ -1,6 +1,6 @@
 # Create_LMDB_from_Numpy
 
-This file creates an LMDB file from numpy files. The application is face varification in which the
+This file creates the LMDB file from numpy files. The application is face varification in which the
 LMDB file will be created from pairs of images. The genuine pairs get label "1" and the imposter
 pairs get label "0". The genuine files contains "gen" in their file name.
 For this process, the numpy files are HOG features
